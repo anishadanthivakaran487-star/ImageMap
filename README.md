@@ -66,7 +66,7 @@ href="https://www.google.com/search?q=cup+of+coffee">
 
 ![alt text](<map/mapapp/static/Screenshot 2025-10-17 094429.png>)
 
-![alt text](<map/mapapp/static/Screenshot 2025-10-17 094429.png>)
+![alt text](<map/mapapp/static/Screenshot 2025-10-17 094759.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
